@@ -31,7 +31,7 @@
 
   "val_batches": 0,
   "val_every": 100,
-  "ckpt_every": 90,
+  "ckpt_every": 5,
   "keep_every": 90,
 
   "name": "example_model",
