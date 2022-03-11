@@ -22,7 +22,7 @@
   "tpu_size": 8,
 
   "bucket": "us-finetune",
-  "model_dir": "v2",
+  "model_dir": "v3",
 
   "train_set": "current_ft.train.index",
   "val_set": {},
